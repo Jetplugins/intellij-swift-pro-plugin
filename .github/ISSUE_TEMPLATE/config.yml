@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Swift Pro issue tracker guide
+    url: https://github.com/Jetplugins/intellij-swift-pro-plugin#readme
+    about: Read the reporting guide and requirements for Swift Pro.
+  - name: Report a security vulnerability privately
+    url: https://github.com/Jetplugins/intellij-swift-pro-plugin/security/advisories/new
+    about: Do not disclose security vulnerabilities in public issues.
